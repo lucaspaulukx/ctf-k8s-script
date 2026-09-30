@@ -1,0 +1,14 @@
+# Fonte original do CTF
+setup-source.sh
+
+# Script de build
+build.sh
+build.ps1
+
+# Diretório de trabalho/artefatos
+src/
+dist/
+
+# Payload intermediário, caso gere separado
+payload.txt
+*.payload
