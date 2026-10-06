@@ -12,3 +12,4 @@ dist/
 # Payload intermediário, caso gere separado
 payload.txt
 *.payload
+setup-source2.sh
